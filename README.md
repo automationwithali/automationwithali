@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Jawad 👋
 
-<!--
-**automationwithali/automationwithali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Automation Developer.** I build systems that do the boring work so people don't have to.
 
-Here are some ideas to get you started:
+If it's manual, I automate it. If it's a phone call, my AI answers it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I work with
+
+**Languages:** TypeScript, JavaScript, Python
+
+**Frontend:** React, Vite, Tailwind CSS, shadcn/ui
+
+**AI & Automation:** AI voice agents, LLM integrations, workflow automation
+
+## 📌 Featured
+
+**[truth-table-generator](https://github.com/automationwithali/truth-table-generator)** — interactive truth table generator for propositional logic, built with React + TypeScript.
+
+## 📫 Find me
+
+Right here — [@automationwithali](https://github.com/automationwithali). More projects shipping soon.
